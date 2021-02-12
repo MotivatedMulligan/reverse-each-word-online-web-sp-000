@@ -7,8 +7,6 @@ def reverse_each_word(array)
     array.reverse {|x| "#{x}"}
   end
 
-  def join(array)
-    array.join {|x| "#{x}"}
-  end
+
 
 end
